@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/SwipeHome/static/css/main.687bf8b3.css",
+    "main.js": "/SwipeHome/static/js/main.38c3d489.js",
+    "index.html": "/SwipeHome/index.html",
+    "main.687bf8b3.css.map": "/SwipeHome/static/css/main.687bf8b3.css.map",
+    "main.38c3d489.js.map": "/SwipeHome/static/js/main.38c3d489.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.687bf8b3.css",
+    "static/js/main.38c3d489.js"
+  ]
+}
