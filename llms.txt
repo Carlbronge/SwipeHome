@@ -1,0 +1,26 @@
+# Swipe Home
+
+> Swipe Home is an AI-powered residential real estate search platform built for home buyers and agents in South Florida. The platform uses behavioral intelligence to match buyers with properties based on how they engage with listings — not just static filters.
+
+Swipe Home serves buyers and real estate agents across Miami-Dade, Broward, and Palm Beach County, Florida.
+
+## What Swipe Home Does
+
+Swipe Home is a mobile application available on iOS. It surfaces residential property listings in South Florida and learns buyer preferences from behavioral signals — what listings a buyer saves, skips, and revisits. Over time, the app refines its recommendations to match each buyer's actual preferences rather than the filters they set manually.
+
+For real estate agents, Swipe Home provides a dashboard with buyer intent data — showing which properties buyers have engaged with before a conversation begins.
+
+## Who Swipe Home Serves
+
+- Home buyers searching for residential properties in South Florida
+- First-time buyers navigating the South Florida market
+- Repeat buyers relocating to Miami, Fort Lauderdale, or Palm Beach
+- Licensed real estate agents and brokerages operating in South Florida
+
+## Markets Covered
+
+Swipe Home covers residential real estate across the following South Florida markets:
+
+- Miami and Miami-Dade County (including Brickell, Coral Gables, Coconut Grove, Wynwood, Edgewater, Miami Beach)
+- Fort Lauderdale and Broward County (including Las Olas, Victoria Park, Wilton Manors, Hollywood, Hallandale Beach)
+- Palm Beach County (including West Palm Beach, Boca Raton, Delray Beach, Jupiter, Palm Beach Gardens)

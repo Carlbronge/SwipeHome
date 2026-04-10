@@ -1,0 +1,48 @@
+# Allow all crawlers
+User-agent: *
+Allow: /
+
+# Google
+User-agent: Googlebot
+Allow: /
+
+# OpenAI / ChatGPT
+User-agent: GPTBot
+Allow: /
+User-agent: ChatGPT-User
+Allow: /
+User-agent: OAI-SearchBot
+Allow: /
+
+# Anthropic / Claude
+User-agent: ClaudeBot
+Allow: /
+User-agent: anthropic-ai
+Allow: /
+
+# Perplexity
+User-agent: PerplexityBot
+Allow: /
+
+# Microsoft / Bing / Copilot
+User-agent: Bingbot
+Allow: /
+User-agent: msnbot
+Allow: /
+
+# Google AI (Gemini / AI Overviews)
+User-agent: Google-Extended
+Allow: /
+
+# Meta
+User-agent: FacebookBot
+Allow: /
+
+# Common research and AI crawlers
+User-agent: CCBot
+Allow: /
+User-agent: omgili
+Allow: /
+
+# Sitemap location
+Sitemap: https://www.swipehome.ai/sitemap.xml
